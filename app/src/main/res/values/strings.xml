@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">projectoutem013</string>
+    <string name="World">Hello World!</string>
+    <string name="next">Siguiente</string>
+    <string name="welcome">Bienvenidos a la segunda activity</string>
+    <string name="name">Nombre</string>
+    <string name="remember">Recordar</string>
+</resources>
